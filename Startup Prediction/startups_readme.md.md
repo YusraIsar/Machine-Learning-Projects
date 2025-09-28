@@ -1,4 +1,4 @@
-# 50 Startups Profit Prediction App
+#  Startups Profit Prediction App
 
 An **interactive Machine Learning application** that predicts the profits of startups based on their expenditures in R&D, Administration, Marketing, and State location. Built with **Python, Scikit-learn, Streamlit, and Joblib**, this project demonstrates the full cycle of a predictive modeling pipeline — from data preprocessing to deployment.
 
